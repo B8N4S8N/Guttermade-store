@@ -44,8 +44,8 @@ const Layout = ({ children }) => {
                       />
                     </svg>
                   </div>
-                  <span className="text-lg font-medium">
-                    Headless Dropshipping Starter
+                  <span className="text-2xl font-medium">
+                    GutterMade x Aldo Varela
                   </span>
                 </a>
               </Link>
@@ -83,7 +83,7 @@ const Layout = ({ children }) => {
                 </a>
               </Link>
               <button
-                className="snipcart-checkout appearance-none px-2 text-gray-800 hover:text-blue-600 rounded-md cursor-pointer focus:outline-none focus:text-blue-600 transition relative"
+                className="snipcart-checkout appearance- px-2 text-gray-800 hover:text-blue-600 rounded-md cursor-pointer focus:outline-none focus:text-blue-600 transition relative"
                 aria-label="Cart"
               >
                 {cartHasItems && (
