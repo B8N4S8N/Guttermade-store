@@ -45,7 +45,7 @@ const Layout = ({ children }) => {
                     </svg>
                   </div>
                   <span className="text-2xl font-medium">
-                    GutterMade x Aldo Varela
+                    GutterMade x Aldo Varela THIS IS A DEMO SITE PLEASE DO NOT TRY TO BUY ANYTHING
                   </span>
                 </a>
               </Link>
