@@ -110,23 +110,23 @@ const Layout = ({ children }) => {
           <p className="text-gray-600 text-sm">
             Powered by
             <a
-              href="https://headlessdropshipping.com"
+              href="https://github.com/B8N4S8N/Guttermade"
               title="Learn more about how this site was made"
               target="_blank"
               rel="noopener noreferrer"
               className="ml-0.5 text-gray-800 hover:text-blue-600"
             >
-              Headless Dropshipping Starter
+              Guttermade
             </a>
-            , Built by{" "}
+            , Built in hell with love by{" "}
             <a
-              href="https://twitter.com/notrab"
+              href="https://twitter.com/b8n4s8n1"
               title="Follow the creator on Twitter"
               target="_blank"
               rel="noopener noreferrer"
               className="ml-0.5 text-gray-800 hover:text-blue-600"
             >
-              @notrab
+              @b8n4s8n1
             </a>
           </p>
           <nav className="flex items-center justify-end space-x-3 md:space-x-6">
